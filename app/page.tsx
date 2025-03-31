@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   const projects = [
     {
@@ -15,7 +13,7 @@ export default function Home() {
       {/* Introduction Section */}
       <section className="text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Hello, I'm Chenene
+          Hello, I&apos;m Chenene
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           A passionate full-stack developer focused on creating elegant and efficient web applications.
